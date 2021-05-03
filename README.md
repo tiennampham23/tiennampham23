@@ -2,4 +2,5 @@
 
 - 🔭 I’m currently learning on Js Core, Angular, Microservices, Java, C# and so on
 - 📫 How to reach me: 
- 📧: phamtiennam2301[at]gmail[dot]com
+  - Email: phamtiennam2301[at]gmail[dot]com
+  - Skype: phamtiennam2301[at]gmail[dot]com
