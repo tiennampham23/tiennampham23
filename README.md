@@ -2,7 +2,7 @@
 
 
 ⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Js Core, Angular, Microservices, Java, C# and so on.
+- 👯 I’m looking to collaborate on projects that are using Js Core, Angular, Microservices, Java, C# and so on. I always use Vim to code 😎
 - 🌱 I’m currently learning Software Architecture
 - :pencil2: I Write blogs on viblo.asia on free days. Let's see: [Viblo](https://viblo.asia/u/tiennampham23)
 - :musical_note: I love to hear rap/rnb/indie.
